@@ -36,3 +36,27 @@ h1 {
 a.active {
   border-bottom: 1px solid black;
 }
+/* image gallery styling */
+
+.card {
+  width: 49.75%;
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.card img {
+  height: 500px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card h2 {
+  display: inline-block;
+  margin: 8px 0 16px 0;
+  font-weight: 300;
+}
+
+.gallery {
+  padding: 20px;
+}
