@@ -4,7 +4,6 @@
 
 ## Concepts applied but not limited too
 
-- ### main branch = responsive to varying user devices
 - ### unresponsive branch = unreposive to varying to user devices
   - unordered lists
   - anchors
@@ -24,6 +23,8 @@
   - hover feature
   - min width
   - nested selectors 
+- ### responsive branch
+  - add media queries
   
 
 [Back to Top](#custom_anchor_name)
